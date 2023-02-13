@@ -22,7 +22,7 @@
 - 📫 How to reach me:  LinkedIn - [@AbhishekGupta](https://www.linkedin.com/in/abhishek-gupta-a2075a144/)   Twitter - [@AbhishekGupta](https://twitter.com/Abhishe05628674) 
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: A programmer is not a PC repairman!
-- 🌏 Website: [priyanshuvishnoi.dev](https://www.priyanshuvishnoi.dev)
+- 🌏 Website: 
 
 **Languages and Tools:**  
 
